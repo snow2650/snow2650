@@ -24,7 +24,7 @@
   <a href="mailto:eve.hsueh2606@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/esther-fangwei-hsueh" target="_blank">
+  <a href="https://www.linkedin.com/in/esther-fangwei-hsueh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://snow2650.github.io" target="_blank">
