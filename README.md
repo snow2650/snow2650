@@ -10,7 +10,7 @@
 
 <div align="left">
     
- 💬 Holding degrees in both **Computer Science & Business Management**, blending technical skills with strategic thinking
+ 💬 Holding degrees in both **Computer Science & MBA**, blending technical skills with strategic thinking
  
  🔭 Currently building a **Monopoly Deal Android app with LAN mode**
  
@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,tailwind,nextjs,html,css" /><br/><br/>
     <b>Backend & Databases</b><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql,sql" /><br/><br/>
-     <b>Cloud & Tools</b><br/>
+    <b>Cloud & Tools</b><br/>
     <img src="https://skillicons.dev/icons?i=azure,git,docker,vscode,postman" /><br/>
 </div>
 
