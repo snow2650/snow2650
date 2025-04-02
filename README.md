@@ -18,6 +18,8 @@
 
 ⚡ Fun fact : **Seals's personality are more like cats than dogs**
 
+💼 Looking for software development and data roles in Canada 🇨🇦
+
  </div>
  
 <div align="center"> 
