@@ -44,7 +44,7 @@
     <b>Frontend & Libraries</b><br/>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,tailwind,nextjs,html,css" /><br/><br/>
     <b>Backend & Databases</b><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql,sql" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql," /><br/><br/>
     <b>Cloud & Tools</b><br/>
     <img src="https://skillicons.dev/icons?i=azure,git,docker,vscode,postman" /><br/>
 </div>
