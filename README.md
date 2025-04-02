@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+I'm+Esther+Hsueh!;Hi+There!+👋;" />
 </h1>
 
-<h3 align="left"> Bridging Tech & Business | Business Intelligence & Workflow Automation Enthusiast</h3>
+<h3 align="left"> Experienced professional with a background in business intelligence and workflow automation</h3>
 
 <br/>
 
 <div align="left">
     
- 💬 Experienced professional with a background in business intelligence and workflow automation
+ 💬 Holding degrees in both **Computer Science & MBA**, blending technical skills with strategic thinking
  
  🔭 Currently building a **Monopoly Deal Android app with LAN mode**
  
@@ -44,7 +44,7 @@
     <b>Frontend & Libraries</b><br/>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,tailwind,nextjs,html,css" /><br/><br/>
     <b>Backend & Databases</b><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql," /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql" /><br/><br/>
     <b>Cloud & Tools</b><br/>
     <img src="https://skillicons.dev/icons?i=azure,git,docker,vscode,postman" /><br/>
 </div>
@@ -65,7 +65,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=snow2650&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=snow2650&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=snow2650&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow2650&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
