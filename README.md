@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+I'm+Esther+Hsueh!;Hi+There!+👋;" />
 </h1>
 
-<h3 align="center"> Bridging Tech & Business | Business Intelligence & Workflow Automation Enthusiast</h3>
+<h3 align="left"> Bridging Tech & Business | Business Intelligence & Workflow Automation Enthusiast</h3>
 
 <br/>
 
