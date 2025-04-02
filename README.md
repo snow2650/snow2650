@@ -40,11 +40,11 @@
 
 <div align="center">
     <b>Programming Languages</b><br/>
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,r,c,ruby,kotlin" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,r,c" /><br/><br/>
     <b>Frontend & Libraries</b><br/>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,tailwind,nextjs,html,css" /><br/><br/>
     <b>Backend & Databases</b><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql,sql" /><br/><br/>
      <b>Cloud & Tools</b><br/>
     <img src="https://skillicons.dev/icons?i=azure,git,docker,vscode,postman" /><br/>
 </div>
@@ -66,6 +66,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=snow2650&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=snow2650" alt="GitHub Streak" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=snow2650&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow2650&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
