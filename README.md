@@ -10,7 +10,7 @@
 
 <div align="left">
     
- 💬 Holding degrees in both **Computer Science & MBA**, blending technical skills with strategic thinking
+ 💬 Experienced professional with a background in business intelligence and workflow automation
  
  🔭 Currently building a **Monopoly Deal Android app with LAN mode**
  
