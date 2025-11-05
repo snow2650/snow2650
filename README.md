@@ -12,13 +12,13 @@
     
  💬 Holding degrees in both **Computer Science & MBA**, blending technical skills with strategic thinking
  
- 🔭 Currently building a **Monopoly Deal Android app with LAN mode**
+ 🔭 Currently building a **Blackjack Card Counting Simulator**
  
- 🌱 Expanding my skillset with **Azure, Ruby, and Kotlin**
+ 🌱 Expanding my skillset with **C#, Azure, Rust, and Kotlin**
 
-⚡ Fun fact : **Seals's personality are more like cats than dogs**
+⚡ Fun fact : **A Bluy Jay is not blue. The structual coloration of its feather makes it SEEMS like blue.**
 
-💼 Looking for software development and data roles in Canada 🇨🇦
+💼 Looking for software development and data roles in Vancouver, Canada 🇨🇦
 
  </div>
  
