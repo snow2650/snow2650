@@ -12,7 +12,7 @@
     
  💬 Holding degrees in both **Computer Science & MBA**, blending technical skills with strategic thinking
  
- 🔭 Currently building a **Blackjack Card Counting Simulator**
+ 🔭 Currently building a **Blackjack Simulator**
  
  🌱 Expanding my skillset with **C#, Azure, Rust, and Kotlin**
 
